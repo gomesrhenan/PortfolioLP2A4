@@ -1,5 +1,8 @@
 # PortfólioLP2A4
-Este repositório compõe parte da nota da disciplina de LP2A4. Neste, serão adicionadas as atividades das aulas da disciplina, formando um Portfólio.
+Rhenan Gomes
+SP3069184
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - São Paulo
+Este repositório compõe parte da nota da disciplina de LP2A4 do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Educação Ciência e Tecnologia de São Paulo - Campus São Paulo. Neste, encontram-se atividades das aulas da disciplina, as quais são divididas em:
 
 Atividades:
 
@@ -16,3 +19,5 @@ Projeto CRUD:
 2 - CRUD com JDBC (Conexão MySQL);
 
 3 - CRUD com JPA (ORM Hibernate);
+
+
