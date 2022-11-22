@@ -12,7 +12,7 @@ Atividades:
 
 3 - Atividade ManyToMany (Como mapear uma terceira entidade em uma relação de muitos para muitos, adicionando um atributo à nova entidade);
 
-Projeto CRUD:
+Projeto CRUD desenvolvido em aula (com modelo passado pelo professor) com java web:
 
 1 - CRUD com arquivo .properties;
 
