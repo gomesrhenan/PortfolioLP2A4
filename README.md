@@ -20,7 +20,7 @@ Projeto CRUD desenvolvido em aula (com modelo passado pelo professor) com java w
 
 3 - CRUD com JPA (ORM Hibernate e banco de dados H2) - https://github.com/gomesrhenan/PortfolioLP2A4/tree/main/lp2a4_crud_jpa;
 
-Os projetos foram desenvolvidos no Eclipse IDE for Enterprise Java and Web Developers utilizando, quando necessário, Apache Tomcat 10.0.23. Para testar, baixe o projeto e importe no Eclipse, adicione um servidor Apache (é possível baixar essa versão e instalar pelo próprio eclipse), adicione o projeto ao servidor e entao execute.
+Os projetos foram desenvolvidos no Eclipse IDE for Enterprise Java and Web Developers utilizando, quando necessário, Apache Tomcat 10.0.23. Para testar, baixe o projeto e importe no Eclipse, adicione um servidor Apache (é possível baixar essa versão e instalar pelo próprio eclipse), adicione o projeto ao servidor e entao execute. Para a atividade de Threads entretanto, 
 
 Em conjunto, também foi criado um caderno virtual: https://ifsp-rhenangomes.notion.site/Caderno-de-LP2A4-Rhenan-Abachioni-Gomes-40da279729844740ace086e2f425d2bb;
 
